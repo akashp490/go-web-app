@@ -18,7 +18,7 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ## ArgoCD UI showing sync status and healthy pods
 
-![Website](static/images/Screenshot(42).png)
+![Website](static/images/ArgoCD.png)
 
 
 
